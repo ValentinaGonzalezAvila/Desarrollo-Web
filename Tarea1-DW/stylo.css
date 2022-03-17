@@ -5,7 +5,10 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-
+header{
+    background-color: #82858b;
+    color: #fff;
+}
 .container{
     padding:20px;
     position: relative;
@@ -21,6 +24,6 @@
 }
 
 footer{
-    background-color: #808080;
-    align-items: center;
+    background-color: #82858b;
+    color: #fff;
 }
