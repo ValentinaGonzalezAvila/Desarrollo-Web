@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.container{
+    padding:20px;
+    position: relative;
+    min-height: auto;
+    max-width: fit-content;
+    align-items: center;
+    background-color: #efefef;
+}
+
+
+.contenedor{
+    align-items: center;
+}
+
+footer{
+    background-color: #808080;
+    align-items: center;
+}
